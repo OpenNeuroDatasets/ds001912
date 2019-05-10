@@ -1,5 +1,13 @@
 {
-    "id": "HEAD",
     "Name": "S-cone_MotionInDepth_fMRI",
-    "BIDSVersion": "1.51-rc1"
+    "BIDSVersion": "1.51-rc1",
+    "Authors": [
+        "Milena Kaestner",
+        "Ryan T. Maloney",
+        "Kirstie H. Wailes-Newson",
+        "Marina Bloj",
+        "Julie M. Harris",
+        "Antony B. Morland",
+        "Alex R. Wade"
+    ]
 }
